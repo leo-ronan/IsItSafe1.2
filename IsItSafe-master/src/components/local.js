@@ -1,10 +1,11 @@
 import React, { useState, useEffect } from "react";
 import { MapContainer, TileLayer, Marker, Popup } from "react-leaflet";
+require("dotenv").config();
 
 const Local = () => {
   const [data, setData] = useState([]);
 
-  const api_key = "71bd3c9de51567a495cc45c857ebcaf2";
+  const api_key = WEATHERKEY;
 
   //api.openweathermap.org/data/2.5/forecast/daily?q={city name}&cnt={cnt}&appid={API key}
 

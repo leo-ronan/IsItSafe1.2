@@ -21,7 +21,7 @@ import {
 } from "react-router-dom";
 require("dotenv").config();
 
-const api_key = "71bd3c9de51567a495cc45c857ebcaf2";
+const api_key = process.env.WEATHERKEY;
 
 class App extends React.Component {
   state = {
