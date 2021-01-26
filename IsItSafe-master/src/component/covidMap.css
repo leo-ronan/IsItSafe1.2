@@ -1,0 +1,6 @@
+.leaflet-container {
+    background-color: white;
+    border: solid gray 1px;
+    margin-left: auto;
+    margin-right: auto;
+}

@@ -1,0 +1,20 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "geometry": { "type": "Point", "coordinates": [-73.3887, 41.2731]}, "properties": {"name": "Fairfield"}}
+,
+{ "type": "Feature", "geometry": { "type": "Point", "coordinates": [-72.7328, 41.8064]}, "properties": {"name": "Hartford"}}
+,
+{ "type": "Feature", "geometry": { "type": "Point", "coordinates": [-73.2453, 41.7925]}, "properties": {"name": "Litchfield"}}
+,
+{ "type": "Feature", "geometry": { "type": "Point", "coordinates": [-72.534, 41.4624]}, "properties": {"name": "Middlesex"}}
+,
+{ "type": "Feature", "geometry": { "type": "Point", "coordinates": [-72.9324, 41.4108]}, "properties": {"name": "New Haven"}}
+,
+{ "type": "Feature", "geometry": { "type": "Point", "coordinates": [-72.1004, 41.4893]}, "properties": {"name": "New London"}}
+,
+{ "type": "Feature", "geometry": { "type": "Point", "coordinates": [-72.3365, 41.855]}, "properties": {"name": "Tolland"}}
+,
+{ "type": "Feature", "geometry": { "type": "Point", "coordinates": [-71.9875, 41.8299]}, "properties": {"name": "Windham"}}
+]
+}
