@@ -22,10 +22,6 @@ $(document).ready(function () {
         //Get desired filters
         setTimeout(2000);
         var target = JSON.parse(sessionStorage.getItem("target"));
-        if (target = null) {
-            location.reload();
-            break;
-        }
         console.log(target);
         var popup = $(".leaflet-popup-content").html();
         console.log(popup);
